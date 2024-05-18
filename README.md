@@ -13,5 +13,5 @@ List of behaviors that do not justify being added:
 List of behaviors that can justify being added:
 
 1. Spamming, posting pornography, distributing malware, or engaging in any illegal activity.
-2.Multiple violations of the Terms of Service, including attempts to circumvent or exploit Wabbajack/TOS. This also can include multiple breaks of your discord community rules with reasonable justification and proof attached to your pull request.
+2. Multiple violations of the Terms of Service, including attempts to circumvent or exploit Wabbajack/TOS. This also can include multiple breaks of your discord community rules with reasonable justification and proof attached to your pull request.
 3. Displaying extreme or repeated toxic behavior.
