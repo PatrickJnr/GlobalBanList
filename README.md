@@ -2,4 +2,4 @@ When committing changes, please include a rationale for adding to the list, alon
 
 Most moderation discord bots allow the use of mass banning. Carlbot for example will be /moderation massban [members] USERID, USERID, USERID, and so on. If you do not have a automod in your discord then I do suggest using carlbot or anyone that has this feature. 
 
-CARLBOT: [CLick Here](carl.gg)
+CARLBOT: [CLick Here](https://carl.gg/)
